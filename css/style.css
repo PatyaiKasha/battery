@@ -20,6 +20,40 @@ body {
     background-color: #ed1c24;
 }
 
+.yellow-battery {
+    position: relative;
+    box-sizing: border-box;
+    width: 158px;
+    height: 58px;
+    border: 4px solid #000;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.yellow-charge {
+    position: relative;
+    width: 99px;
+    height: 50px;
+    background-color: #ffc60b;
+}
+
+.green-battery {
+    position: relative;
+    box-sizing: border-box;
+    width: 158px;
+    height: 58px;
+    border: 4px solid #000;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.green-charge {
+    position: relative;
+    width: 100%;
+    height: 50px;
+    background-color: #00a055;
+}
+
 .negative {
     position: absolute;
     width: 6px;
