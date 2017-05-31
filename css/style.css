@@ -3,7 +3,7 @@ body {
     padding: 0;
 }
 
-.red-battery {
+.yellow-battery {
     position: relative;
     box-sizing: border-box;
     width: 158px;
@@ -13,11 +13,11 @@ body {
     margin-top: 10px;
 }
 
-.red-charge {
+.yellow-charge {
     position: relative;
-    width: 50px;
+    width: 99px;
     height: 50px;
-    background-color: #ed1c24;
+    background-color: #ffc60b;
 }
 
 .negative {
